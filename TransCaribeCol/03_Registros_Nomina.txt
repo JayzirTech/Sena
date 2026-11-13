@@ -1,0 +1,16 @@
+=======================================================================================================================================
+                TRANSCARIBECOL S.C.A. - REGISTRO GENERAL DE NÓMINA Y HONORARIOS
+                       Cumplimiento Código Sustantivo del Trabajo y Ley 100
+                     Elaborado por: Julián Vanegas & Jayzir Martínez (SENA)
+=======================================================================================================================================
+Nombre               | Tipo           | Cargo              |    HT |      Salario |   HE |        TPHE |      Salud |    Pensión |        ARL |  Total a pagar
+---------------------------------------------------------------------------------------------------------------------------------------
+Carlos Mendoza       | Administrativo | Asistente Contable |   160 |   $3.200.000 |   10 |    $250.000 |   $138.000 |   $138.000 |    $18.009 |     $3.174.000
+Andrés Restrepo      | Operativo      | Conductor          |   160 |   $6.400.000 |    0 |          $0 |   $320.000 |   $409.600 |    $26.726 |     $5.643.674
+María Gómez          | Operativo      | Oficios Generales  |   100 |   $4.000.000 |    0 |          $0 |   $200.000 |   $256.000 |     $8.352 |     $3.535.648
+Jorge Morales        | Operativo      | Vigilancia         |   336 |  $13.440.000 |    0 |          $0 |   $672.000 |   $860.160 |   $233.856 |    $11.673.984
+---------------------------------------------------------------------------------------------------------------------------------------
+TOTALES              | -              | -                  |     - |  $27.040.000 |    - |    $250.000 | $1.330.000 | $1.663.760 |   $286.943 |    $24.027.306
+=======================================================================================================================================
+Total registros procesados: 4
+* Nota Legal: Para personal Administrativo, el valor de ARL indicado corresponde al aporte patronal obligatorio por ley.
