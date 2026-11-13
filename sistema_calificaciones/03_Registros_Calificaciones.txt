@@ -1,0 +1,30 @@
+===============================================================================================
+SERVICIO NACIONAL DE APRENDIZAJE - SENA
+SISTEMA DE REGISTRO Y PROCESAMIENTO DE CALIFICACIONES
+Fecha de Generación: 13/11/2026 10:23:15
+Equipo de Desarrollo: Jayzir Martínez & Julián Vanegas
+===============================================================================================
+
+LISTADO DETALLADO DE APRENDICES Y CALIFICACIONES:
+-----------------------------------------------------------------------------------------------
+ID         | NOMBRE DEL APRENDIZ          | NOTAS                  | PROMEDIO   | ESTADO        
+-----------------------------------------------------------------------------------------------
+1001       | Carlos Alberto Gómez         | 85.0, 90.0, 88.0, 92.0 |    88.75 | Aprobado      
+1002       | Ana María Rodríguez          | 60.0, 65.0, 70.0, 68.0 |    65.75 | No Aprobado   
+1003       | Julián David Vanegas         | 70.0, 70.0, 70.0, 70.0 |    70.00 | Aprobado      
+1004       | Jayzir Martínez              | 95.0, 98.0, 94.0, 100.0 |    96.75 | Aprobado      
+1005       | Laura Marcela Pérez          | 45.0, 50.0, 58.0, 52.0 |    51.25 | No Aprobado   
+-----------------------------------------------------------------------------------------------
+
+RESUMEN GENERAL Y ESTADÍSTICAS DEL GRUPO:
++--------------------------------------------------+--------------------+
+| Métrica                                          |              Valor |
++--------------------------------------------------+--------------------+
+| Total de Aprendices Evaluados                    |                  5 |
+| PROMEDIO GENERAL DEL GRUPO                       |              74.50 |
+| Aprendices Aprobados (>= 70)                     |                  3 |
+| Aprendices No Aprobados (< 70)                   |                  2 |
+| Porcentaje de Aprobación                         |              60.0% |
+| Promedio Más Alto                                |              96.75 |
+| Promedio Más Bajo                                |              51.25 |
++--------------------------------------------------+--------------------+
