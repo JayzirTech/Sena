@@ -1,0 +1,6 @@
+id_estudiante,documento,nombre_completo,correo,estado
+EST-0001,1001234567,Ana Maria Gomez,ana.gomez@sena.edu.co,ACTIVO
+EST-0002,1009876543,Carlos Mario Ramirez,carlos.ramirez@sena.edu.co,ACTIVO
+EST-0003,1011121314,Laura Marcela Restrepo,laura.restrepo@sena.edu.co,ACTIVO
+EST-0004,1022334455,Juan David Morales Castro,juan.morales@sena.edu.co,ACTIVO
+EST-0005,1033445566,Sofia Valentina Herrera Mejia,sofia.herrera@sena.edu.co,ACTIVO
