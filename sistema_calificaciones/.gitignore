@@ -1,0 +1,35 @@
+# ==============================================================================
+# .gitignore - Sistema de Calificaciones SENA
+# ==============================================================================
+
+# Caché y Bytecode de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Entornos Virtuales
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Carpetas y Archivos Temporales de Pruebas
+data_test/
+*_TEMP.html
+*.tmp
+
+# Configuraciones de Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
